@@ -1,19 +1,19 @@
 HR Analytics Dashboard
 
-Project Overview
+Project Overview 
 A Power BI dashboard developed to analyze employee attrition, workforce distribution, and key HR metrics. The dashboard provides interactive insights to support HR decision-making.
 
-Tech Stack
+Tech Stack 
 Power BI Desktop
 Power Query
 DAX
 Data Modeling
 Excel (Dataset)
 
-Data Source
+Data Source 
 HR Analytics dataset containing employee information such as department, job role, age, education, salary, and attrition.
 
-Dashboard Features
+Dashboard Features 
 Employee Overview KPIs
 Attrition Analysis
 Department-wise Analysis
