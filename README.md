@@ -11,13 +11,10 @@ A Power BI dashboard developed to analyze employee attrition, workforce distribu
 - Microsoft Excel (Dataset)
 
 ## Data Source
-HR Analytics dataset containing employee information such as:
-- Department
-- Job Role
-- Age
-- Education
-- Salary
-- Attrition
+
+Dataset: HR Analytics Dataset downloaded from Kaggle.
+
+The dataset includes employee information such as department, job role, age, education, salary, and attrition status.
 
 ## Dashboard Features
 - Employee Overview KPIs
@@ -34,7 +31,5 @@ HR Analytics dataset containing employee information such as:
 - Salary patterns and workforce demographics
 
 ## Files Included
-- Dataset
 - Power BI Dashboard (.pbix)
-- Dashboard PDF
 - Dashboard Screenshot
